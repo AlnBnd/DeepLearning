@@ -1,3 +1,6 @@
+from torch import nn
+from L2Norm import *
+
 class VGG(nn.Module):
     def __init__(self):
         super(VGG, self).__init__()
