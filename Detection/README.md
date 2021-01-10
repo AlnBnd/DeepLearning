@@ -1,4 +1,4 @@
-Object Detection with TRTorch (SSD) 
+Object Detection with SSD
 
 References: 
 1. https://arxiv.org/abs/1512.02325
